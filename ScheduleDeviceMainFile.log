@@ -1,4 +1,4 @@
-0	1	mikrocAVR.exe -MSF -DBG -pATMEGA1281 -RA -C -DL -SSA -O00000005 -fo16 -N"D:\Schedule_Device\Schedule_Device_Levani_Rusishvili_rev_002\DamteniMtavariFile.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -SP"D:\Schedule_Device\Schedule_Device_Levani_Rusishvili_rev_002\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -IP"D:\Schedule_Device\Schedule_Device_Levani_Rusishvili_rev_002\" "ScheduleDevice.c" "LCD_DT.c" "Config.c" "CMD.c" "IT.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Sprintf.mcl" "__Lib_Time.mcl" "__Lib_SPI_b1320_x2.mcl" "__Lib_TWI_eio.mcl" "__Lib_UART_e01_d23_eio.mcl" "__Lib_PortExpander.mcl"	 
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA1281 -RA -C -DL -SSA -O00000005 -fo16 -N"D:\Schedule_Device\Schedule_Device_Levani_Rusishvili_rev_002\ScheduleDeviceMainFile.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -SP"D:\Schedule_Device\Schedule_Device_Levani_Rusishvili_rev_002\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -IP"D:\Schedule_Device\Schedule_Device_Levani_Rusishvili_rev_002\" "ScheduleDevice.c" "LCD_DT.c" "Config.c" "CMD.c" "IT.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Sprintf.mcl" "__Lib_Time.mcl" "__Lib_SPI_b1320_x2.mcl" "__Lib_TWI_eio.mcl" "__Lib_UART_e01_d23_eio.mcl" "__Lib_PortExpander.mcl"	 
 diagnostics: 0	122	Compilation Started	ATMEGA1281.c
 diagnostics: 2700	123	Compiled Successfully	ATMEGA1281.c
 diagnostics: 0	122	Compilation Started	__Lib_Delays.c
@@ -30,11 +30,11 @@ diagnostics: 0	122	Compilation Started	cmd.h
 diagnostics: 17	123	Compiled Successfully	CMD.c
 diagnostics: 0	122	Compilation Started	config.h
 diagnostics: 1	123	Compiled Successfully	scheduledevice.h
-diagnostics: 0	127	All files Compiled in 250 ms	 
+diagnostics: 0	127	All files Compiled in 266 ms	 
 hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
 hint: 0	1144	Static RAM (bytes): 1053   Dynamic RAM (bytes): 7139	Static RAM (bytes): 1053   Dynamic RAM (bytes): 7139
 hint: 0	1144	Used ROM (bytes): 19137 (15%)  Free ROM (bytes): 111935 (85%)	Used ROM (bytes): 19137 (15%)  Free ROM (bytes): 111935 (85%)
-diagnostics: 0	125	Project Linked Successfully	DamteniMtavariFile.mcpav
-diagnostics: 0	128	Linked in 31 ms	 
-diagnostics: 0	129	Project 'DamteniMtavariFile.mcpav' completed: 406 ms	 
-diagnostics: 0	103	Finished successfully: 05 ??? 2024, 21:49:00	DamteniMtavariFile.mcpav
+diagnostics: 0	125	Project Linked Successfully	ScheduleDeviceMainFile.mcpav
+diagnostics: 0	128	Linked in 46 ms	 
+diagnostics: 0	129	Project 'ScheduleDeviceMainFile.mcpav' completed: 484 ms	 
+diagnostics: 0	103	Finished successfully: 16 ??? 2024, 18:59:26	ScheduleDeviceMainFile.mcpav
